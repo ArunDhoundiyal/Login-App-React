@@ -1,0 +1,19 @@
+.bg-container {
+  background-image: linear-gradient(to top, #b5b9ff, #2b2c49);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ButtonStyle {
+  background-color: #f8fafc;
+  color: #303150;
+  font-family: roboto;
+  height: 50px;
+  width: 100px;
+  font-size: 15px;
+  border-radius: 10px;
+}

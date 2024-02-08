@@ -1,0 +1,9 @@
+.LoginButtonStyle {
+  background-color: #f8fafc;
+  color: #303150;
+  font-family: roboto;
+  height: 50px;
+  width: 100px;
+  font-size: 15px;
+  border-radius: 10px;
+}
